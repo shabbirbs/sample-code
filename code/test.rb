@@ -45,3 +45,4 @@ class VulnerableController < ApplicationController
     render plain: "Command executed successfully.\nOutput: #{output}"
   end
 end
+
