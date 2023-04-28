@@ -10,7 +10,7 @@ on:
 
 jobs:
   semgrep:
-    name: Scan
+    name: SCA Scan
     runs-on: ubuntu-latest
 
     container:
